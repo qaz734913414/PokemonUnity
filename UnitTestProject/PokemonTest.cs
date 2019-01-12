@@ -518,7 +518,7 @@ namespace Tests
 		}
         #endregion
 
-        #region
+        #region Gender
         [TestMethod]
 		public void Pokemon_Mail_Test_Pokemon_HoldMessage()
 		{
