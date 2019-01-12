@@ -430,7 +430,7 @@ namespace Tests
 		}
         #endregion
 
-        #region Evoling/evolution
+        #region Evolving/evolution
 		//Use eevee to test different evolve code, as it's a perfect practice test
         [TestMethod]
 		public void Pokemon_TestPokemon_CanEvolve()
